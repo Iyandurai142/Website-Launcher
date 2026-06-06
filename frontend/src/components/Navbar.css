@@ -1,0 +1,16 @@
+.navbar-custom {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-custom .navbar-brand {
+  color: #667eea !important;
+  font-size: 1.5rem;
+}
+
+.navbar-custom a {
+  margin-left: 20px;
+}
+
+.dark-mode .navbar-custom {
+  background-color: #1a1a1a !important;
+}
